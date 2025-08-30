@@ -361,3 +361,4 @@ export default function DentalPregnancyLanding() {
 // - Ganti geometry Tooth dengan GLTF asli per gigi + useGLTF untuk klik presisi.
 // - Pertimbangkan kompresi Draco/KTX2 untuk GLTF agar loading cepat.
 // - Tambahkan plugin Tailwind line-clamp bila ingin memotong teks deskripsi.
+
